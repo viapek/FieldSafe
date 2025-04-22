@@ -31,7 +31,7 @@ const DashboardPage = () => {
       <div className="flex h-screen">
         <Sidebar collapsible="icon">
           <SidebarHeader>
-            <h2>Rolebase</h2>
+            <h2>FieldSafe</h2>
           </SidebarHeader>
           <SidebarContent>
             <SidebarMenu>
